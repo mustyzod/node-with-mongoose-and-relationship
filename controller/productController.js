@@ -42,12 +42,7 @@ exports.getProduct = (req, res, next) => {
 
 // Add new product
 exports.addProduct = (req, res, next) => {
-    const {
-        title,
-        price,
-        description,
-        imageUrl
-    } = req.body;
+    const { title, price, description, imageUrl } = req.body;
 
     const product = new ProductModel({
         title,
