@@ -1,0 +1,2 @@
+# node-with-mongoose-and-relationship
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1278594ac3e6407c90e0a83b77c1366f)](https://app.codacy.com/manual/mustyzod/node-with-mongoose-and-relationship?utm_source=github.com&utm_medium=referral&utm_content=mustyzod/node-with-mongoose-and-relationship&utm_campaign=Badge_Grade_Dashboard)
